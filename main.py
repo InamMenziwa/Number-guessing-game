@@ -25,7 +25,7 @@ def play_game():
 
 computer_choice = random.randint(1, 100)
 print('WELCOME TO THE NUMBER GUESIING GAME')
-print('Im thinking of a number between 1 and 10')
+print('Im thinking of a number between 1 and 100')
 game_difficulty = input("Game difficulty 'easy' or 'hard'>> ")
 game_attempts = 0
 
